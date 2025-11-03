@@ -46,6 +46,12 @@ By analyzing employee demographics, salary distribution, departmental trends, an
 - **Excel** — for data cleaning and preparation  
 
 ---
+### 🗂️ Project Structure
+Data/ → Contains the cleaned Excel datasets used in the dashboard.
+Dashboard/ → Contains Tableau dashboard files (.twb and .twbx).
+
+To open the dashboard correctly, please make sure to download the data files as w
+---
 
 ### 📷 Dashboard Preview
 ![HR Dashboard](Visuals//HR_Analysis.png)
