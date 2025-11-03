@@ -48,6 +48,6 @@ By analyzing employee demographics, salary distribution, departmental trends, an
 ---
 
 ### 📷 Dashboard Preview
-![HR Dashboard](HR_Analysis.png)
+![HR Dashboard](Visuals//HR_Analysis.png)
 
 ---
